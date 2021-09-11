@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test button example 1`] = `
+"<div class=\\"app-type\\">基本使用</div><button class=\\"basic-button\\">组件库从我开始</button>
+<div class=\\"app-type\\">修改颜色</div><button class=\\"basic-button\\" style=\\"background: rgb(3, 169, 244);\\">组件库从我开始</button>"
+`;
